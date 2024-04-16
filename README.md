@@ -19,4 +19,6 @@ Graduated in Data Science and Artificial Intelligence from the Pontifical Cathol
 ### :pencil:Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Explorando as Maiores Altas e Baixas na Bolsa de Valores com Python](https://www.ronaldandrade.blog.br/posts/explorando-api-b3/)
+- [Aplicando Python para mercado financeiro](https://www.ronaldandrade.blog.br/posts/python-para-o-mercado-financeiro/)
 <!-- BLOG-POST-LIST:END -->
