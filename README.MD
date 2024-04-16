@@ -15,3 +15,8 @@ Graduated in Data Science and Artificial Intelligence from the Pontifical Cathol
 <p align="left"> 
 "The world is one big data problem." - Andrew McAfee
 </p>
+
+### :pencil:Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
