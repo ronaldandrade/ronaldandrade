@@ -19,6 +19,9 @@ Graduated in Data Science and Artificial Intelligence from the Pontifical Cathol
 ### :pencil:Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualizando Preços de Ações com Médias Móveis em Python](https://www.ronaldandrade.blog.br/posts/calculando-m%C3%A9dia-m%C3%B3vel/)
+- [Testes de segurança de IA em risco](https://www.ronaldandrade.blog.br/posts/seguranca-de-intelig%C3%AAncia-artificial/)
+- [Calculando o Value at Risk &lpar;VaR&rpar; de uma Ação com Python](https://www.ronaldandrade.blog.br/posts/calculando-var/)
+- [Visualizando Tendências de Mercado com Matplotlib e Seaborn](https://www.ronaldandrade.blog.br/posts/visualizando-tend%C3%AAncias-de-mercado/)
 - [Explorando as Maiores Altas e Baixas na Bolsa de Valores com Python](https://www.ronaldandrade.blog.br/posts/explorando-api-b3/)
-- [Aplicando Python para mercado financeiro](https://www.ronaldandrade.blog.br/posts/python-para-o-mercado-financeiro/)
 <!-- BLOG-POST-LIST:END -->
