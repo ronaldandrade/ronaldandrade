@@ -19,9 +19,9 @@ Graduated in Data Science and Artificial Intelligence from the Pontifical Cathol
 ### :pencil:Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mais alucinações ocorrem conforme os modelos de IA avançam](https://www.ronaldandrade.blog.br/posts/openai-admite-que-novos-modelos-alucinam-ainda-mais/)
 - [Resenha do Livro Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.ronaldandrade.blog.br/posts/resenho-do-livro-hands-on-machine-learning/)
 - [Como Criar um Sistema de Recomendação de Ações com Machine Learning](https://www.ronaldandrade.blog.br/posts/recomendacao-com-machine-learning/)
 - [Visualizando Preços de Ações com Médias Móveis em Python](https://www.ronaldandrade.blog.br/posts/calculando-m%C3%A9dia-m%C3%B3vel/)
 - [Testes de segurança de IA em risco](https://www.ronaldandrade.blog.br/posts/seguranca-de-intelig%C3%AAncia-artificial/)
-- [Calculando o Value at Risk &lpar;VaR&rpar; de uma Ação com Python](https://www.ronaldandrade.blog.br/posts/calculando-var/)
 <!-- BLOG-POST-LIST:END -->
