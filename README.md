@@ -19,9 +19,9 @@ Graduated in Data Science and Artificial Intelligence from the Pontifical Cathol
 ### :pencil:Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mais alucinações ocorrem conforme os modelos de IA avançam](https://www.ronaldandrade.blog.br/posts/openai-admite-que-novos-modelos-alucinam-ainda-mais/)
-- [Resenha do Livro Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.ronaldandrade.blog.br/posts/resenho-do-livro-hands-on-machine-learning/)
-- [Como Criar um Sistema de Recomendação de Ações com Machine Learning](https://www.ronaldandrade.blog.br/posts/recomendacao-com-machine-learning/)
-- [Visualizando Preços de Ações com Médias Móveis em Python](https://www.ronaldandrade.blog.br/posts/calculando-m%C3%A9dia-m%C3%B3vel/)
-- [Testes de segurança de IA em risco](https://www.ronaldandrade.blog.br/posts/seguranca-de-intelig%C3%AAncia-artificial/)
+- [28 detectores de objetos, uma GPU de 4 GB: medindo acurácia e latência sem confiar nos números dos outros](https://ramslog.com.br/blog/benchmark_detectores_objetos)
+- [Contagem de veículos com visão computacional: detectar não é contar](https://ramslog.com.br/blog/contagem_carros_visao_computacional)
+- [Reconhecimento de Objetos com YOLO: do Código à Matemática](https://ramslog.com.br/blog/reconhecimento_objetos_yolo)
+- [PCA: Reduzindo Dimensões sem Perder o Essencial](https://ramslog.com.br/blog/pca_reducao_dimensionalidade)
+- [Cálculo em Deep Learning: de Limites a Gradientes](https://ramslog.com.br/blog/calculo_deep_learning)
 <!-- BLOG-POST-LIST:END -->
