@@ -19,9 +19,9 @@ Graduated in Data Science and Artificial Intelligence from the Pontifical Cathol
 ### :pencil:Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parando de repetir as mesmas instruções: como organizo meus agentes e skills no dia a dia](https://ramslog.com.br/blog/agentes_e_skills_na_pratica)
 - [221 milhões de tokens depois: fiz um widget para controlar meus gastos e acabei mudando meu jeito de trabalhar](https://ramslog.com.br/blog/token_widget_produtividade)
 - [28 detectores de objetos, uma GPU de 4 GB: medindo acurácia e latência sem confiar nos números dos outros](https://ramslog.com.br/blog/benchmark_detectores_objetos)
 - [Contagem de veículos com visão computacional: detectar não é contar](https://ramslog.com.br/blog/contagem_carros_visao_computacional)
 - [Reconhecimento de Objetos com YOLO: do Código à Matemática](https://ramslog.com.br/blog/reconhecimento_objetos_yolo)
-- [PCA: Reduzindo Dimensões sem Perder o Essencial](https://ramslog.com.br/blog/pca_reducao_dimensionalidade)
 <!-- BLOG-POST-LIST:END -->
