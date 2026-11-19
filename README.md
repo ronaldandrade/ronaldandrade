@@ -9,12 +9,15 @@
 </p>
 
 <p align="left"> 
-Graduated in Data Science and Artificial Intelligence from the Pontifical Catholic University of Rio Grande do Sul (PUCRS). With a solid background in data-driven management in the Air Force, I am currently exploring the vast world of data science to find new ways to optimize operations and drive organizational success.</p>
+Sou formado em Ciência de Dados e Inteligência Artificial pela PUCRS e desenvolvo projetos próprios para aplicar programação, análise de dados e inteligência artificial a problemas concretos.
+
+Meu trabalho envolve experimentos com modelos de machine learning, visão computacional e automação de processos. Também desenvolvo ferramentas em Python e sistemas que integram modelos de IA a fluxos de trabalho reais.
+</p>
 <br>
 
-<p align="left"> 
-"The world is one big data problem." - Andrew McAfee
-</p>
+Skills: ## Skills
+
+![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,linux,git,github)
 
 ### :pencil:Blog posts
 
