@@ -15,7 +15,7 @@ Meu trabalho envolve experimentos com modelos de machine learning, visão comput
 </p>
 <br>
 
-Skills: ## Skills
+## Skills
 
 ![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,linux,git,github)
 
