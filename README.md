@@ -22,9 +22,9 @@ Meu trabalho envolve experimentos com modelos de machine learning, visão comput
 ### :pencil:Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como a IA realmente cria imagens e vídeos: do ruído ao Flow Matching e patches 3D](https://ramslog.com.br/blog/como_ia_cria_imagens_e_videos)
 - [Cinco livros abertos e um problema na mesa: como eu estudo machine learning e visão computacional](https://ramslog.com.br/blog/como_estudo_ml_visao_computacional)
 - [Parando de repetir as mesmas instruções: como organizo meus agentes e skills no dia a dia](https://ramslog.com.br/blog/agentes_e_skills_na_pratica)
 - [221 milhões de tokens depois: fiz um widget para controlar meus gastos e acabei mudando meu jeito de trabalhar](https://ramslog.com.br/blog/token_widget_produtividade)
 - [28 detectores de objetos, uma GPU de 4 GB: medindo acurácia e latência sem confiar nos números dos outros](https://ramslog.com.br/blog/benchmark_detectores_objetos)
-- [Contagem de veículos com visão computacional: detectar não é contar](https://ramslog.com.br/blog/contagem_carros_visao_computacional)
 <!-- BLOG-POST-LIST:END -->
